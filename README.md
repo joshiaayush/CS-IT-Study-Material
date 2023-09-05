@@ -1,1 +1,1 @@
-# Second-Year-Project
+# CS/IT Study Material
